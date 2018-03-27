@@ -16,7 +16,7 @@ parameters:
   description: Nombre de la aplicación.
 - name: GIT_REPO
   displayName: URL repositorio Git
-  value: https://github.com/
+  value: https://github.com/GuillermoSaavedraBustos/restForum.git
   required: true
   description: La URL del repositorio.
 - name: APP_VERSION
