@@ -4,7 +4,7 @@ metadata:
   annotations:
     description: Template generado para Previred, para el uso de Spring-Boot
     iconClass: icon-jboss
-    version: '1.0'
+    version: '2.0'
   name: previred-spring-boot
 labels:
   template: previred-spring-boot
